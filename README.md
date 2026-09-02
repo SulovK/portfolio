@@ -1,4 +1,3 @@
-# Sulov Khadka
 
 I'm a business analytics student based in Sacramento, California. My background is in management information systems, and I've worked across software development, database management, event operations, and higher education.
 

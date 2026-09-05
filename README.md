@@ -13,11 +13,15 @@ I like working on projects where I can take a messy problem, make sense of the d
 - Salesforce, Microsoft Project, and Microsoft Planner
 - Jupyter Notebook, R Markdown, Git, and GitHub
 
-## A few projects I've worked on
+## My Projects
 
 ### [Emergency Room Staffing Optimization with R](https://github.com/SulovK/er-staffing-optimization-r)
 
 An integer linear programming project that uses patient demand patterns to allocate nurses and specialists across emergency room shifts while respecting staffing, availability, and budget constraints.
+
+### [Medical Insurance Cost Drivers: Statistical Analysis in R](https://github.com/SulovK/medical-insurance-cost-analysis)
+
+Analyzed 1,338 insurance records in R using statistical tests to identify how smoking, BMI, and region relate to medical costs.
 
 ### Nonprofit Salesforce implementation
 

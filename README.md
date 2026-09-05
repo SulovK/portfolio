@@ -17,7 +17,7 @@ I like working on projects where I can take a messy problem, make sense of the d
 
 ### [Emergency Room Staffing Optimization with R](https://github.com/SulovK/er-staffing-optimization-r)
 
-I used R to analyze 1,338 medical insurance records through t-tests, ANOVA, ANCOVA, and regression. The analysis looked at how factors such as smoking, age, BMI, and number of children affected medical charges.
+An integer linear programming project that uses patient demand patterns to allocate nurses and specialists across emergency room shifts while respecting staffing, availability, and budget constraints.
 
 ### Nonprofit Salesforce implementation
 

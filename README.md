@@ -23,14 +23,6 @@ An integer linear programming project that uses patient demand patterns to alloc
 
 Analyzed 1,338 insurance records in R using statistical tests to identify how smoking, BMI, and region relate to medical costs.
 
-### Nonprofit Salesforce implementation
-
-For my capstone project, my team implemented Salesforce for a nonprofit organization. The new process reduced manual data entry by 50% and saved staff more than 10 hours each week. I also helped manage the project scope, schedule, and final stakeholder presentation.
-
-### Investment firm database
-
-I designed and built a relational database using SQL and Oracle to help an analyst team organize and access investment information more efficiently. The project also included a user interface designed to make data entry faster and easier.
-
 ## Outside of projects
 
 I've also worked as a programmer analyst, graduate assistant, resident assistant, international student ambassador, and database assistant. Those roles taught me how to communicate with different groups, manage competing priorities, and think about the people who will actually use the systems and processes I help build.

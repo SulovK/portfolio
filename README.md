@@ -15,7 +15,7 @@ I like working on projects where I can take a messy problem, make sense of the d
 
 ## A few projects I've worked on
 
-### [Emergency Room Staffing Optimization with R] (https://github.com/SulovK/er-staffing-optimization-r)
+### [Emergency Room Staffing Optimization with R](https://github.com/SulovK/er-staffing-optimization-r)
 
 I used R to analyze 1,338 medical insurance records through t-tests, ANOVA, ANCOVA, and regression. The analysis looked at how factors such as smoking, age, BMI, and number of children affected medical charges.
 

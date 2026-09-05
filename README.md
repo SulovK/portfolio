@@ -1,4 +1,5 @@
-(240425-UMD-LEADERSHIP-AWARDS-115.jpg)
+# Hi, I'm Sulov!
+
 I'm a business analytics student based in Sacramento, California. My background is in management information systems, and I've worked across software development, database management, event operations, and higher education.
 
 I like working on projects where I can take a messy problem, make sense of the data behind it, and build something useful from it. Lately, I've been especially interested in decision modeling, process improvement, and finding practical ways to use analytics in day-to-day operations.
@@ -13,10 +14,6 @@ I like working on projects where I can take a messy problem, make sense of the d
 - Jupyter Notebook, R Markdown, Git, and GitHub
 
 ## A few projects I've worked on
-
-### ER staffing optimization
-
-I built a linear programming model to find the best allocation of nurses and specialists across three hospital shifts while staying within a fixed budget. The project used more than 5,000 patient records and included sensitivity analysis for changes in demand, staffing availability, and budget.
 
 ### Insurance charges analysis
 

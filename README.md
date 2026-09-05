@@ -1,4 +1,4 @@
-[Profile Picture](240425-UMD-LEADERSHIP-AWARDS-115.jpg)
+(240425-UMD-LEADERSHIP-AWARDS-115.jpg)
 I'm a business analytics student based in Sacramento, California. My background is in management information systems, and I've worked across software development, database management, event operations, and higher education.
 
 I like working on projects where I can take a messy problem, make sense of the data behind it, and build something useful from it. Lately, I've been especially interested in decision modeling, process improvement, and finding practical ways to use analytics in day-to-day operations.

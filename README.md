@@ -1,19 +1,3 @@
-<div align="center">
-
-<img src="assets/analytics-banner.png" alt="Abstract analytics banner" width="100%" />
-
-<h1>Sulov Khadka</h1>
-
-<p><strong>Business Analytics Graduate Student · Data · Systems · Better Decisions</strong></p>
-
-<p>
-  <a href="https://www.linkedin.com/in/sulovkhadka">LinkedIn</a> ·
-  <a href="mailto:sulov8050@gmail.com">Email</a> ·
-  <a href="https://github.com/SulovK">GitHub</a>
-</p>
-
-</div>
-
 ## About me
 
 I’m a business analytics student based in Sacramento, California, with a background in management information systems and experience across software development, database management, event operations, and higher education.
@@ -33,34 +17,17 @@ I enjoy taking messy operational problems, finding the story in the data, and tu
 
 ## Featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Emergency Room Staffing Optimization
+### [Emergency Room Staffing Optimization](https://github.com/SulovK/er-staffing-optimization-r)
 
 An integer linear programming project in R that allocates nurses and specialists across emergency room shifts while considering patient demand, availability, staffing requirements, and budget constraints.
 
-**R · Optimization · Operations research**
+`R` `Optimization` `Operations research`
 
-<br />
-<a href="https://github.com/SulovK/er-staffing-optimization-r">View project →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### Medical Insurance Cost Drivers
+### [Medical Insurance Cost Drivers](https://github.com/SulovK/medical-insurance-cost-analysis)
 
 An R-based statistical analysis of 1,338 insurance records, examining how smoking status, BMI, age, region, and other factors relate to medical costs.
 
-**R · Statistical analysis · Regression**
-
-<br />
-<a href="https://github.com/SulovK/medical-insurance-cost-analysis">View project →</a>
-
-</td>
-</tr>
-</table>
+`R` `Statistical analysis` `Regression`
 
 ## What I bring
 
@@ -70,9 +37,4 @@ Alongside my academic projects, I’ve worked as a programmer analyst, graduate 
 
 I’m interested in internships and entry-level opportunities in business analytics, data analysis, business intelligence, process improvement, and analytics-enabled operations.
 
-<p>
-  <a href="mailto:sulov8050@gmail.com"><strong>Send me an email</strong></a> ·
-  <a href="https://www.linkedin.com/in/sulovkhadka"><strong>Connect on LinkedIn</strong></a>
-</p>
-
-<sub>Built with curiosity, practical analytics, and a preference for clear answers.</sub>
+[Send me an email](mailto:sulov8050@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/sulovkhadka) · [View my GitHub](https://github.com/SulovK)

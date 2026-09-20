@@ -1,3 +1,6 @@
 title: Sulov Khadka
-#show downloads: true
-theme: jekyll-theme-slate
+description: Business analytics, data, and practical decision-making
+logo: /assets/analytics-banner.png
+theme: jekyll-theme-cayman
+show_downloads: false
+google_analytics:
